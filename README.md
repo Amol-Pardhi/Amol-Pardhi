@@ -11,7 +11,7 @@
 ## 💡 What Sets Me Apart 
 <h3 align="center">In the vast world of coding, I stand out as an explorer, delving into the uncharted territories of AI creativity. With a passion for innovation and an enthusiastic heart, I'm committed to pushing the boundaries and discovering new possibilities.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=123456789&label=Profile%20views&color=0e75b6&style=flat" alt="123456789" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amol-Pardhi&label=Profile%20views&color=0e75b6&style=flat" alt="Amol-Pardhi" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
