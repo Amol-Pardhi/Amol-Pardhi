@@ -78,7 +78,7 @@
 <p>&nbsp;</p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amol-Pardhi&show_icons=true&locale=en" alt="Amol-Pardhi" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amol-Pardhi&show_icons=true&locale=en&theme=transparent" alt="Amol-Pardhi" />
 </p>
 <p>&nbsp;</p>
 <p align="left">
