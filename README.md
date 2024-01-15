@@ -72,7 +72,7 @@
 <p>&nbsp;</p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amol-Pardhi&show_icons=true&locale=en&layout=compact" alt="https://github.com/Amol-Pardhi"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amol-Pardhi&show_icons=true&locale=en&layout=compact&theme=transparent" alt="https://github.com/Amol-Pardhi"/>
 </p>
 
 <p>&nbsp;</p>
@@ -82,6 +82,6 @@
 </p>
 <p>&nbsp;</p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amol-Pardhi&" alt="Amol Pardhi Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amol-Pardhi&&theme=transparent" alt="Amol Pardhi Streak" />
 </p>
 
